@@ -1,0 +1,18 @@
+{
+  "northwind": {
+    "target": "https://services.odata.org",
+    "useProxy": true
+  },
+  "HID_130": {
+    "target": "https://myhr-predev.health.qld.gov.au",
+    "useProxy": true,
+    "Authentication": "Basic",
+    "User": "250001",
+    "Password": "Myhr1234",
+    "sapclient": "110"
+  },
+
+  "local": {
+    "target": "../../../resources/"
+  }
+}
